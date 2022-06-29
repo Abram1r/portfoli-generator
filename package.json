@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abram1r/portfoli-generator.git"
+  },
+  "author": "Abram1r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abram1r/portfoli-generator/issues"
+  },
+  "homepage": "https://github.com/Abram1r/portfoli-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
